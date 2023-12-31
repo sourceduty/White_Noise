@@ -86,7 +86,7 @@ def get_suggestions(noise_type):
 
 # Create the main GUI window
 window = tk.Tk()
-window.title("Noise Generator")
+window.title("White Noise Generator")
 
 # Set background color to black and text color to white
 window.configure(bg='black')
