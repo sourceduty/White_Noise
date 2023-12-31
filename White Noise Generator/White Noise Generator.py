@@ -1,6 +1,6 @@
 # White Noise Generator
 # Generate custom white noises using Python.
-# Copyright (c) 2023, Sourceduty
+# Copyright (C) 2023, Sourceduty - All Rights Reserved.
 
 import tkinter as tk
 from tkinter import ttk
